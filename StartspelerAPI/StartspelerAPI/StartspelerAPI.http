@@ -1,0 +1,6 @@
+@StartspelerAPI_HostAddress = http://localhost:5204
+
+GET {{StartspelerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
