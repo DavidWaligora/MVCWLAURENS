@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StartspelerAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b01c60c9093216d3c9e1c4ddd42fffb084d5578")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f012ecc3376373e4952183be0ec5079664e94921")]
 [assembly: System.Reflection.AssemblyProductAttribute("StartspelerAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StartspelerAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

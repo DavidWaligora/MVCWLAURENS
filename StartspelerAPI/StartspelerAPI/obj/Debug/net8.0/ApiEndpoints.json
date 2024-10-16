@@ -1,0 +1,356 @@
+[
+  {
+    "ContainingType": "StartspelerAPI.Controllers.CommunityController",
+    "Method": "CommunityToevoegen",
+    "RelativePath": "api/Community",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "communityDto",
+        "Type": "StartspelerAPI.DTO.CommunityAanmakenDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "StartspelerAPI.Models.Community",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StartspelerAPI.Controllers.CommunityController",
+    "Method": "GetCommunity",
+    "RelativePath": "api/Community/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "StartspelerAPI.Models.Community",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StartspelerAPI.Controllers.CommunityController",
+    "Method": "CommunityWijzigen",
+    "RelativePath": "api/Community/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "naam",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "community",
+        "Type": "StartspelerAPI.Models.Community",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StartspelerAPI.Controllers.CommunityController",
+    "Method": "CommunityVerwijderen",
+    "RelativePath": "api/Community/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StartspelerAPI.Controllers.CommunityController",
+    "Method": "GetAllCommunities",
+    "RelativePath": "api/Community/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[StartspelerAPI.Models.Community, StartspelerAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StartspelerAPI.Controllers.CommunityController",
+    "Method": "Search",
+    "RelativePath": "api/Community/Search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "zoekwaarde",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[StartspelerAPI.Models.Community, StartspelerAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StartspelerAPI.Controllers.EventController",
+    "Method": "EventToevoegen",
+    "RelativePath": "api/Event",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "eventAanmakenDto",
+        "Type": "StartspelerAPI.DTO.EventAanmakenDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "StartspelerAPI.Models.Event",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StartspelerAPI.Controllers.EventController",
+    "Method": "GetProduct",
+    "RelativePath": "api/Event/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "StartspelerAPI.Models.Event",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StartspelerAPI.Controllers.EventController",
+    "Method": "EventWijzigen",
+    "RelativePath": "api/Event/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "naam",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "startMoment",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "eventdto",
+        "Type": "StartspelerAPI.DTO.EventWijzigenDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StartspelerAPI.Controllers.EventController",
+    "Method": "EventVerwijderen",
+    "RelativePath": "api/Event/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StartspelerAPI.Controllers.EventController",
+    "Method": "GetAllEvents",
+    "RelativePath": "api/Event/GetAllEvents",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[StartspelerAPI.Models.Event, StartspelerAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StartspelerAPI.Controllers.GebruikerController",
+    "Method": "Put",
+    "RelativePath": "api/Gebruiker/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "userDto",
+        "Type": "StartspelerAPI.DTO.GebruikerWijzigenDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StartspelerAPI.Controllers.GebruikerController",
+    "Method": "Delete",
+    "RelativePath": "api/Gebruiker/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StartspelerAPI.Controllers.GebruikerController",
+    "Method": "GetAlleUsersMetRollen",
+    "RelativePath": "api/Gebruiker/GetAlleUsersMetRollen",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StartspelerAPI.Controllers.GebruikerController",
+    "Method": "GrantPermission",
+    "RelativePath": "api/Gebruiker/GrantPermission",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gpm",
+        "Type": "StartspelerAPI.DTO.GrantPermissionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StartspelerAPI.Controllers.GebruikerController",
+    "Method": "Login",
+    "RelativePath": "api/Gebruiker/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "StartspelerAPI.DTO.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StartspelerAPI.Controllers.GebruikerController",
+    "Method": "Register",
+    "RelativePath": "api/Gebruiker/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "StartspelerAPI.DTO.RegistratieDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

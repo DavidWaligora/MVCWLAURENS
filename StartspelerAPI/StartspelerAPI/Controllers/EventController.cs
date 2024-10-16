@@ -91,7 +91,7 @@ namespace StartspelerAPI.Controllers
             //
             var evenst = await _unitOfWork.EventRepository.GetAllAsync();
             var eve =
-                evenst.Where(x => x.Naam.Contains(naam) || x.StartMoment.Date == startMoment.Date).OrderBy(x => x.Naam);
+                evenst.Where(x => x.Startmoment.Date == startMoment.Date && x.Naam.Contains(naam)).OrderBy(x => x.Naam);
             if (eve == null)
             {
                 return NotFound("Er zijn geen events in de database" +
