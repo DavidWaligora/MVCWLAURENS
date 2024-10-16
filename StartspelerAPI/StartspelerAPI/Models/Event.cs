@@ -5,7 +5,6 @@ namespace StartspelerAPI.Models
 {
     public class Event
     {
-        private DateTime _startMoment;
 
         [Required]
         public int Id { get; set; }
@@ -16,17 +15,7 @@ namespace StartspelerAPI.Models
         [MaxLength(200, ErrorMessage = "niet te lang 200 max karakters")]
         public string? Beschrijving { get; set; }
         [Required]
-
-        public DateTime StartMoment
-        {
-            get { return _startMoment; }
-            set {
-                if (value > DateTime.Now)
-                {
-                    _startMoment = value;
-                }
-            }
-        }
+        public DateTime Startmoment { get; set; } = DateTime.Now;
         public double? Prijs { get; set; }
         [Range(4, 32, ErrorMessage = "4-32 doeme e")]
         public int? MaxDeelnemers { get; set; }

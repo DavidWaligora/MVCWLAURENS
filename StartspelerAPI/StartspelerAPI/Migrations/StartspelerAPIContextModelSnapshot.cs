@@ -273,7 +273,7 @@ namespace StartspelerAPI.Migrations
                     b.Property<double?>("Prijs")
                         .HasColumnType("float");
 
-                    b.Property<DateTime>("StartMoment")
+                    b.Property<DateTime>("Startmoment")
                         .HasColumnType("datetime2");
 
                     b.HasKey("Id");

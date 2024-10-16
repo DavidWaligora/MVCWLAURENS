@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
@@ -105,10 +106,12 @@ builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 // db service
 builder.Services.AddDbContext<StartspelerAPIContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("LocalDBConnection")));
 
+builder.Services.AddIdentity<Gebruiker, IdentityRole>().AddEntityFrameworkStores<StartspelerAPIContext>();
+
 // service uow
 builder
     .Services
-    .AddScoped<IUnitOfWork>();
+    .AddScoped<IUnitOfWork, UnitOfWork>();
 
 
 

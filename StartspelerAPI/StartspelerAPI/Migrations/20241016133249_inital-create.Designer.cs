@@ -12,8 +12,8 @@ using StartspelerAPI.Data;
 namespace StartspelerAPI.Migrations
 {
     [DbContext(typeof(StartspelerAPIContext))]
-    [Migration("20241011074815_first migration")]
-    partial class firstmigration
+    [Migration("20241016133249_inital-create")]
+    partial class initalcreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -276,7 +276,7 @@ namespace StartspelerAPI.Migrations
                     b.Property<double?>("Prijs")
                         .HasColumnType("float");
 
-                    b.Property<DateTime>("StartMoment")
+                    b.Property<DateTime>("Startmoment")
                         .HasColumnType("datetime2");
 
                     b.HasKey("Id");

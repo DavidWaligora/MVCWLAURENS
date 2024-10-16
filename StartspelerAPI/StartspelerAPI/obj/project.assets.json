@@ -4438,23 +4438,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\david\\.nuget\\packages\\": {},
+    "C:\\Users\\L\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\school\\MVC-framework\\StartspelerAPI\\StartspelerAPI\\StartspelerAPI.csproj",
+      "projectUniqueName": "C:\\Users\\L\\repos\\MVC es\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\StartspelerAPI.csproj",
       "projectName": "StartspelerAPI",
-      "projectPath": "C:\\school\\MVC-framework\\StartspelerAPI\\StartspelerAPI\\StartspelerAPI.csproj",
-      "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-      "outputPath": "C:\\school\\MVC-framework\\StartspelerAPI\\StartspelerAPI\\obj\\",
+      "projectPath": "C:\\Users\\L\\repos\\MVC es\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\StartspelerAPI.csproj",
+      "packagesPath": "C:\\Users\\L\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\L\\repos\\MVC es\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\L\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

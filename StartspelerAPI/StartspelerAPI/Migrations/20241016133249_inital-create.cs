@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace StartspelerAPI.Migrations
 {
     /// <inheritdoc />
-    public partial class firstmigration : Migration
+    public partial class initalcreate : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -181,7 +181,7 @@ namespace StartspelerAPI.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Naam = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Beschrijving = table.Column<string>(type: "nvarchar(200)", maxLength: 200, nullable: true),
-                    StartMoment = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    Startmoment = table.Column<DateTime>(type: "datetime2", nullable: false),
                     Prijs = table.Column<double>(type: "float", nullable: true),
                     MaxDeelnemers = table.Column<int>(type: "int", nullable: true),
                     CommunityId = table.Column<int>(type: "int", nullable: false)
