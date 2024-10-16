@@ -146,3 +146,14 @@ C:\school\MVC-framework\StartspelerAPI\StartspelerAPI\obj\Debug\net8.0\refint\St
 C:\school\MVC-framework\StartspelerAPI\StartspelerAPI\obj\Debug\net8.0\StartspelerAPI.pdb
 C:\school\MVC-framework\StartspelerAPI\StartspelerAPI\obj\Debug\net8.0\StartspelerAPI.genruntimeconfig.cache
 C:\school\MVC-framework\StartspelerAPI\StartspelerAPI\obj\Debug\net8.0\ref\StartspelerAPI.dll
+C:\school\MVC-framework\MVCWLAURENS\StartspelerAPI\StartspelerAPI\obj\Debug\net8.0\StartspelerAPI.csproj.AssemblyReference.cache
+C:\school\MVC-framework\MVCWLAURENS\StartspelerAPI\StartspelerAPI\obj\Debug\net8.0\StartspelerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\school\MVC-framework\MVCWLAURENS\StartspelerAPI\StartspelerAPI\obj\Debug\net8.0\StartspelerAPI.AssemblyInfoInputs.cache
+C:\school\MVC-framework\MVCWLAURENS\StartspelerAPI\StartspelerAPI\obj\Debug\net8.0\StartspelerAPI.AssemblyInfo.cs
+C:\school\MVC-framework\MVCWLAURENS\StartspelerAPI\StartspelerAPI\obj\Debug\net8.0\StartspelerAPI.csproj.CoreCompileInputs.cache
+C:\school\MVC-framework\MVCWLAURENS\StartspelerAPI\StartspelerAPI\obj\Debug\net8.0\StartspelerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\school\MVC-framework\MVCWLAURENS\StartspelerAPI\StartspelerAPI\obj\Debug\net8.0\StartspelerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\school\MVC-framework\MVCWLAURENS\StartspelerAPI\StartspelerAPI\obj\Debug\net8.0\StartspelerAPI.sourcelink.json
+C:\school\MVC-framework\MVCWLAURENS\StartspelerAPI\StartspelerAPI\obj\Debug\net8.0\StartspelerAPI.dll
+C:\school\MVC-framework\MVCWLAURENS\StartspelerAPI\StartspelerAPI\obj\Debug\net8.0\refint\StartspelerAPI.dll
+C:\school\MVC-framework\MVCWLAURENS\StartspelerAPI\StartspelerAPI\obj\Debug\net8.0\StartspelerAPI.pdb
