@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\L\\repos\\MVC es\\MVCWLAURENS\\StartspelerAPI\\",
   "Documents": [
     {
@@ -105,6 +106,165 @@
     {
       "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\users\\l\\repos\\mvc es\\mvcwlaurens\\startspelerapi\\startspelerapi\\models\\inschrijving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\models\\inschrijving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\data\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\data\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\data\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\data\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\controllers\\inschrijvingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\controllers\\inschrijvingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\data\\repository\\inschrijvingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\data\\repository\\inschrijvingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\data\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\data\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\configuration\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\configuration\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\models\\gebruiker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\models\\gebruiker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\models\\community.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\models\\community.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\helper\\identityseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\helper\\identityseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\data\\startspelerapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\data\\startspelerapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\models\\inschrijving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\models\\inschrijving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\controllers\\gebruikercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\controllers\\gebruikercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\controllers\\communitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\controllers\\communitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\dto\\inschrijvingeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\dto\\inschrijvingeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\dto\\inschrijvingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\dto\\inschrijvingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\data\\repository\\iinschrijvingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\data\\repository\\iinschrijvingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\dto\\registratiedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\dto\\registratiedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\dto\\gebruikerwijzigendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\dto\\gebruikerwijzigendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\dto\\grantpermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\dto\\grantpermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\dto\\gebruikermetrollendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\dto\\gebruikermetrollendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\dto\\eventwijzigendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\dto\\eventwijzigendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\data\\repository\\icommunityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\data\\repository\\icommunityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\data\\repository\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\data\\repository\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\data\\repository\\communityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\data\\repository\\communityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\data\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\data\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\data\\repository\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\data\\repository\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\dto\\communityeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\dto\\communityeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\dto\\communityaanmakendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\dto\\communityaanmakendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\dto\\eventinschrijvingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\dto\\eventinschrijvingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\dto\\eventaanmakendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\dto\\eventaanmakendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\helper\\mysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\helper\\mysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\helper\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\helper\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|c:\\school\\mvc-framework\\mvcwlaurens\\startspelerapi\\startspelerapi\\migrations\\20241011074815_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C7C25-EEAF-41C0-98DA-273A66791EB6}|StartspelerAPI\\StartspelerAPI.csproj|solutionrelative:startspelerapi\\migrations\\20241011074815_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 4b01c60c9093216d3c9e1c4ddd42fffb084d5578
     }
   ],
   "DocumentGroupContainers": [
@@ -114,6 +274,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 217,
+<<<<<<< HEAD
           "SelectedChildIndex": 25,
           "Children": [
             {
@@ -127,11 +288,48 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T13:38:53.405Z",
+=======
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{778b5376-ad77-4751-acdc-f3d18343f8dd}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\Data\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "StartspelerAPI\\Data\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:37:33.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\Data\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "StartspelerAPI\\Data\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:37:19.804Z",
+>>>>>>> 4b01c60c9093216d3c9e1c4ddd42fffb084d5578
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< HEAD
               "Title": "ICommunityRepository.cs",
               "DocumentMoniker": "C:\\Users\\L\\repos\\MVC es\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\Repository\\ICommunityRepository.cs",
               "RelativeDocumentMoniker": "StartspelerAPI\\Data\\Repository\\ICommunityRepository.cs",
@@ -140,11 +338,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T13:38:45.679Z",
+=======
+              "Title": "InschrijvingController.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Controllers\\InschrijvingController.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\Controllers\\InschrijvingController.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Controllers\\InschrijvingController.cs",
+              "RelativeToolTip": "StartspelerAPI\\Controllers\\InschrijvingController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAjwCoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:05:24.973Z",
+>>>>>>> 4b01c60c9093216d3c9e1c4ddd42fffb084d5578
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+<<<<<<< HEAD
               "Title": "IEventRepository.cs",
               "DocumentMoniker": "C:\\Users\\L\\repos\\MVC es\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\Repository\\IEventRepository.cs",
               "RelativeDocumentMoniker": "StartspelerAPI\\Data\\Repository\\IEventRepository.cs",
@@ -166,10 +375,21 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T13:37:52.098Z",
+=======
+              "Title": "InschrijvingRepository.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\Repository\\InschrijvingRepository.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\Data\\Repository\\InschrijvingRepository.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\Repository\\InschrijvingRepository.cs",
+              "RelativeToolTip": "StartspelerAPI\\Data\\Repository\\InschrijvingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:41:50.578Z",
+>>>>>>> 4b01c60c9093216d3c9e1c4ddd42fffb084d5578
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 7,
               "Title": "20241016133249_inital-create.cs",
               "DocumentMoniker": "C:\\Users\\L\\repos\\MVC es\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Migrations\\20241016133249_inital-create.cs",
@@ -179,10 +399,48 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T13:32:49.523Z",
+=======
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\Data\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "StartspelerAPI\\Data\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:03:40.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Configuration\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\Configuration\\MapperProfile.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Configuration\\MapperProfile.cs",
+              "RelativeToolTip": "StartspelerAPI\\Configuration\\MapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:27:36.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Gebruiker.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Models\\Gebruiker.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\Models\\Gebruiker.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Models\\Gebruiker.cs",
+              "RelativeToolTip": "StartspelerAPI\\Models\\Gebruiker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:02:12.995Z",
+>>>>>>> 4b01c60c9093216d3c9e1c4ddd42fffb084d5578
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 10,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\L\\repos\\MVC es\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\appsettings.Development.json",
@@ -192,10 +450,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-16T13:28:01.739Z",
+=======
+              "DocumentIndex": 8,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\Models\\Event.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Models\\Event.cs",
+              "RelativeToolTip": "StartspelerAPI\\Models\\Event.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:49:39.185Z",
+>>>>>>> 4b01c60c9093216d3c9e1c4ddd42fffb084d5578
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\L\\repos\\MVC es\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\appsettings.json",
@@ -205,10 +475,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-16T13:21:42.944Z",
+=======
+              "DocumentIndex": 7,
+              "Title": "Community.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Models\\Community.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\Models\\Community.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Models\\Community.cs",
+              "RelativeToolTip": "StartspelerAPI\\Models\\Community.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:46:22.475Z",
+>>>>>>> 4b01c60c9093216d3c9e1c4ddd42fffb084d5578
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 9,
               "Title": "StartspelerAPIContext.cs",
               "DocumentMoniker": "C:\\Users\\L\\repos\\MVC es\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\StartspelerAPIContext.cs",
@@ -256,10 +538,58 @@
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T13:15:02.256Z"
+=======
+              "DocumentIndex": 10,
+              "Title": "IdentitySeeding.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Helper\\IdentitySeeding.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\Helper\\IdentitySeeding.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Helper\\IdentitySeeding.cs",
+              "RelativeToolTip": "StartspelerAPI\\Helper\\IdentitySeeding.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:18:29.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\Program.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Program.cs",
+              "RelativeToolTip": "StartspelerAPI\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAACEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:45:49.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "StartspelerAPI\\appsettings.json",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\appsettings.json",
+              "RelativeToolTip": "StartspelerAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T07:37:55.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StartspelerAPIContext.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\StartspelerAPIContext.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\Data\\StartspelerAPIContext.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\StartspelerAPIContext.cs",
+              "RelativeToolTip": "StartspelerAPI\\Data\\StartspelerAPIContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:14:19.746Z"
+>>>>>>> 4b01c60c9093216d3c9e1c4ddd42fffb084d5578
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+<<<<<<< HEAD
               "Title": "EventController.cs",
               "DocumentMoniker": "C:\\Users\\L\\repos\\MVC es\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Controllers\\EventController.cs",
               "RelativeDocumentMoniker": "StartspelerAPI\\Controllers\\EventController.cs",
@@ -268,10 +598,21 @@
               "ViewState": "AgIAAFUAAAAAAAAAAAAIwF4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T13:14:27.461Z"
+=======
+              "Title": "Inschrijving.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Models\\Inschrijving.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\Models\\Inschrijving.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Models\\Inschrijving.cs",
+              "RelativeToolTip": "StartspelerAPI\\Models\\Inschrijving.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:06:03.536Z"
+>>>>>>> 4b01c60c9093216d3c9e1c4ddd42fffb084d5578
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+<<<<<<< HEAD
               "Title": "InschrijvingRepository.cs",
               "DocumentMoniker": "C:\\Users\\L\\repos\\MVC es\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\Repository\\InschrijvingRepository.cs",
               "RelativeDocumentMoniker": "StartspelerAPI\\Data\\Repository\\InschrijvingRepository.cs",
@@ -280,10 +621,45 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T13:11:56.169Z"
+=======
+              "Title": "CommunityController.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Controllers\\CommunityController.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\Controllers\\CommunityController.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Controllers\\CommunityController.cs",
+              "RelativeToolTip": "StartspelerAPI\\Controllers\\CommunityController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAswDEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:31:49.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GebruikerController.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Controllers\\GebruikerController.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\Controllers\\GebruikerController.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Controllers\\GebruikerController.cs",
+              "RelativeToolTip": "StartspelerAPI\\Controllers\\GebruikerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T09:34:10.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Controllers\\EventController.cs",
+              "RelativeToolTip": "StartspelerAPI\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:45:47.102Z"
+>>>>>>> 4b01c60c9093216d3c9e1c4ddd42fffb084d5578
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+<<<<<<< HEAD
               "Title": "IInschrijvingRepository.cs",
               "DocumentMoniker": "C:\\Users\\L\\repos\\MVC es\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\Repository\\IInschrijvingRepository.cs",
               "RelativeDocumentMoniker": "StartspelerAPI\\Data\\Repository\\IInschrijvingRepository.cs",
@@ -292,10 +668,21 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T13:10:48.648Z"
+=======
+              "Title": "InschrijvingEventDto.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\InschrijvingEventDto.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\DTO\\InschrijvingEventDto.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\InschrijvingEventDto.cs",
+              "RelativeToolTip": "StartspelerAPI\\DTO\\InschrijvingEventDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:15:16.171Z"
+>>>>>>> 4b01c60c9093216d3c9e1c4ddd42fffb084d5578
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+<<<<<<< HEAD
               "Title": "InschrijvingEventDto.cs",
               "DocumentMoniker": "C:\\Users\\L\\repos\\MVC es\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\InschrijvingEventDto.cs",
               "RelativeDocumentMoniker": "StartspelerAPI\\DTO\\InschrijvingEventDto.cs",
@@ -304,11 +691,34 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T13:08:02.767Z"
+=======
+              "Title": "IInschrijvingRepository.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\Repository\\IInschrijvingRepository.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\Data\\Repository\\IInschrijvingRepository.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\Repository\\IInschrijvingRepository.cs",
+              "RelativeToolTip": "StartspelerAPI\\Data\\Repository\\IInschrijvingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:41:33.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\LoginDto.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\DTO\\LoginDto.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\LoginDto.cs",
+              "RelativeToolTip": "StartspelerAPI\\DTO\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:01:55.598Z"
+>>>>>>> 4b01c60c9093216d3c9e1c4ddd42fffb084d5578
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "InschrijvingDto.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\Users\\L\\repos\\MVC es\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\InschrijvingDto.cs",
               "RelativeDocumentMoniker": "StartspelerAPI\\DTO\\InschrijvingDto.cs",
               "ToolTip": "C:\\Users\\L\\repos\\MVC es\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\InschrijvingDto.cs",
@@ -328,11 +738,33 @@
               "ViewState": "AgIAAHoAAAAAAAAAAAAUwIYAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T13:06:01.782Z"
+=======
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\InschrijvingDto.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\DTO\\InschrijvingDto.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\InschrijvingDto.cs",
+              "RelativeToolTip": "StartspelerAPI\\DTO\\InschrijvingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:11:52.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RegistratieDto.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\RegistratieDto.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\DTO\\RegistratieDto.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\RegistratieDto.cs",
+              "RelativeToolTip": "StartspelerAPI\\DTO\\RegistratieDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T09:59:32.112Z"
+>>>>>>> 4b01c60c9093216d3c9e1c4ddd42fffb084d5578
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "GebruikerWijzigenDto.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\Users\\L\\repos\\MVC es\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\GebruikerWijzigenDto.cs",
               "RelativeDocumentMoniker": "StartspelerAPI\\DTO\\GebruikerWijzigenDto.cs",
               "ToolTip": "C:\\Users\\L\\repos\\MVC es\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\GebruikerWijzigenDto.cs",
@@ -389,10 +821,20 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-10-16T13:03:44.318Z"
+=======
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\GebruikerWijzigenDto.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\DTO\\GebruikerWijzigenDto.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\GebruikerWijzigenDto.cs",
+              "RelativeToolTip": "StartspelerAPI\\DTO\\GebruikerWijzigenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T09:53:28.572Z"
+>>>>>>> 4b01c60c9093216d3c9e1c4ddd42fffb084d5578
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
+<<<<<<< HEAD
               "Title": "Gebruiker.cs",
               "DocumentMoniker": "C:\\Users\\L\\repos\\MVC es\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Models\\Gebruiker.cs",
               "RelativeDocumentMoniker": "StartspelerAPI\\Models\\Gebruiker.cs",
@@ -401,10 +843,69 @@
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T13:03:33.537Z"
+=======
+              "Title": "GrantPermissionDto.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\GrantPermissionDto.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\DTO\\GrantPermissionDto.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\GrantPermissionDto.cs",
+              "RelativeToolTip": "StartspelerAPI\\DTO\\GrantPermissionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T09:49:56.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GebruikerMetRollenDto.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\GebruikerMetRollenDto.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\DTO\\GebruikerMetRollenDto.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\GebruikerMetRollenDto.cs",
+              "RelativeToolTip": "StartspelerAPI\\DTO\\GebruikerMetRollenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T09:38:43.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICommunityRepository.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\Repository\\ICommunityRepository.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\Data\\Repository\\ICommunityRepository.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\Repository\\ICommunityRepository.cs",
+              "RelativeToolTip": "StartspelerAPI\\Data\\Repository\\ICommunityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:23:26.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\Repository\\EventRepository.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\Data\\Repository\\EventRepository.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\Repository\\EventRepository.cs",
+              "RelativeToolTip": "StartspelerAPI\\Data\\Repository\\EventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:41:08.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CommunityRepository.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\Repository\\CommunityRepository.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\Data\\Repository\\CommunityRepository.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\Repository\\CommunityRepository.cs",
+              "RelativeToolTip": "StartspelerAPI\\Data\\Repository\\CommunityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:40:30.208Z"
+>>>>>>> 4b01c60c9093216d3c9e1c4ddd42fffb084d5578
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
+<<<<<<< HEAD
               "Title": "Inschrijving.cs",
               "DocumentMoniker": "C:\\Users\\L\\repos\\MVC es\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Models\\Inschrijving.cs",
               "RelativeDocumentMoniker": "StartspelerAPI\\Models\\Inschrijving.cs",
@@ -439,6 +940,144 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T13:00:53.22Z",
               "EditorCaption": ""
+=======
+              "Title": "EventWijzigenDto.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\EventWijzigenDto.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\DTO\\EventWijzigenDto.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\EventWijzigenDto.cs",
+              "RelativeToolTip": "StartspelerAPI\\DTO\\EventWijzigenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:28:04.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\Repository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\Data\\Repository\\IGenericRepository.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\Repository\\IGenericRepository.cs",
+              "RelativeToolTip": "StartspelerAPI\\Data\\Repository\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:24:11.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\Repository\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\Data\\Repository\\IEventRepository.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Data\\Repository\\IEventRepository.cs",
+              "RelativeToolTip": "StartspelerAPI\\Data\\Repository\\IEventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:40:53.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CommunityEventDto.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\CommunityEventDto.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\DTO\\CommunityEventDto.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\CommunityEventDto.cs",
+              "RelativeToolTip": "StartspelerAPI\\DTO\\CommunityEventDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:48:33.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CommunityAanmakenDto.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\CommunityAanmakenDto.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\DTO\\CommunityAanmakenDto.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\CommunityAanmakenDto.cs",
+              "RelativeToolTip": "StartspelerAPI\\DTO\\CommunityAanmakenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:39:09.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EventInschrijvingDto.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\EventInschrijvingDto.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\DTO\\EventInschrijvingDto.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\EventInschrijvingDto.cs",
+              "RelativeToolTip": "StartspelerAPI\\DTO\\EventInschrijvingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:37:12.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EventAanmakenDto.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\EventAanmakenDto.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\DTO\\EventAanmakenDto.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\DTO\\EventAanmakenDto.cs",
+              "RelativeToolTip": "StartspelerAPI\\DTO\\EventAanmakenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:47:24.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\GlobalUsings.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\GlobalUsings.cs",
+              "RelativeToolTip": "StartspelerAPI\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:22:25.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MySettings.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Helper\\MySettings.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\Helper\\MySettings.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Helper\\MySettings.cs",
+              "RelativeToolTip": "StartspelerAPI\\Helper\\MySettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:14:28.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Helper\\Token.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\Helper\\Token.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Helper\\Token.cs",
+              "RelativeToolTip": "StartspelerAPI\\Helper\\Token.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:13:16.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20241011074815_first migration.cs",
+              "DocumentMoniker": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Migrations\\20241011074815_first migration.cs",
+              "RelativeDocumentMoniker": "StartspelerAPI\\Migrations\\20241011074815_first migration.cs",
+              "ToolTip": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\Migrations\\20241011074815_first migration.cs",
+              "RelativeToolTip": "StartspelerAPI\\Migrations\\20241011074815_first migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:48:15.306Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+>>>>>>> 4b01c60c9093216d3c9e1c4ddd42fffb084d5578
             }
           ]
         }

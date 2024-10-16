@@ -15,7 +15,12 @@ namespace StartspelerAPI.Models
         [MaxLength(200, ErrorMessage = "niet te lang 200 max karakters")]
         public string? Beschrijving { get; set; }
         [Required]
+<<<<<<< HEAD
         public DateTime Startmoment { get; set; } = DateTime.Now;
+=======
+
+        public DateTime StartMoment { get; set; } = DateTime.Now;
+>>>>>>> 4b01c60c9093216d3c9e1c4ddd42fffb084d5578
         public double? Prijs { get; set; }
         [Range(4, 32, ErrorMessage = "4-32 doeme e")]
         public int? MaxDeelnemers { get; set; }

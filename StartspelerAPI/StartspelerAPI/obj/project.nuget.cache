@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "OY+BzeOPd2E=",
   "success": true,
   "projectFilePath": "C:\\Users\\L\\repos\\MVC es\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\StartspelerAPI.csproj",
+=======
+  "dgSpecHash": "bYyE1aa0lts=",
+  "success": true,
+  "projectFilePath": "C:\\school\\MVC-framework\\MVCWLAURENS\\StartspelerAPI\\StartspelerAPI\\StartspelerAPI.csproj",
+>>>>>>> 4b01c60c9093216d3c9e1c4ddd42fffb084d5578
   "expectedPackageFiles": [
     "C:\\Users\\L\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\L\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
