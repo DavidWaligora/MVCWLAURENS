@@ -17,16 +17,7 @@ namespace StartspelerAPI.Models
         public string? Beschrijving { get; set; }
         [Required]
 
-        public DateTime StartMoment
-        {
-            get { return _startMoment; }
-            set {
-                if (value > DateTime.Now)
-                {
-                    _startMoment = value;
-                }
-            }
-        }
+        public DateTime StartMoment { get; set; } = DateTime.Now;
         public double? Prijs { get; set; }
         [Range(4, 32, ErrorMessage = "4-32 doeme e")]
         public int? MaxDeelnemers { get; set; }
